@@ -1,0 +1,10 @@
+body{
+    margin: 0% 3%;
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 50PX;
+}
+.tomato-highlight{
+    color: tomato;
+}
