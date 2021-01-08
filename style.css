@@ -63,31 +63,40 @@ section{
 .experience-area h2{
     text-align: auto;
 }
+.half-height{
+    height: 40%;
+    margin-top: 5%;   
+}
 .contact-area{
     background-image: url("shapes/use.png");
     background-repeat: no-repeat;
-    background-position: 50% 25%;
-    background-size: 50%; 
+    background-position: 50% 15%;
+    background-size: 40%; 
     position: relative;
 }
 .work{
     position: absolute;
-    bottom: 60%;
-    right: 60%;
+    bottom: 65%;
+    right: 55%;
     color: white;
 }
 .chat{
     position: absolute;
-    bottom: 67%;
-    right: 30%;
+    bottom: 72%;
+    right: 35%;
     color: white;
 }
-.footer{
+.padded{
+    margin-top: 10%;
+    margin-bottom: 10%;
     text-align: center;
-    height: 40%;
 }
-.footer h2{
-    font-size: 45px;
-    color:#363958;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.mail{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+}
+.icon-size{
+    width: 3%;
+    padding-left: 2%;
+    
 }
